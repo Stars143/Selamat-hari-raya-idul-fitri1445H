@@ -13,9 +13,7 @@
     <title>Selamat Hari Raya Idul Fitri</title>
   </head>
   <body>
-<audio autoplay>
- <source src="takbiran.mp3" type="audio/mp3"/>
-</audio>
+    
     <link href='https://fonts.googleapis.com/css?family=Raleway:500,400,300,200,100' rel='stylesheet' type='text/css'>
     <canvas class="container" id="container" role="main"></canvas>
       <div class="content">
